@@ -1,9 +1,16 @@
 /*pruebas css*/
-
-Hola.h1{
-    background: blue;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-Hola.h2{
+.Hola h1{
     color: blue;
 }
+
+.Hola h2{
+    color: blue;
+    background: red;
+}
+
