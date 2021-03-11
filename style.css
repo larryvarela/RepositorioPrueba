@@ -19,6 +19,12 @@
     color:cadetblue;
     background: yellow;
 }
+
+.Hola a{
+    color: green;
+    text-decoration: none;
+}
 .Hola :hover{
     background: white;
 }
+
